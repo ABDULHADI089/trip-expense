@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "trip-expense",
+    "slug": "trip-expense",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app needs access to your photos to let you select your profile picture."
+        }
+      ]
+    ]
+  }
+}
